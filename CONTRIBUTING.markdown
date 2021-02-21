@@ -16,7 +16,7 @@ review them more effectively and/or individually.
 
 ## Style Guidelines
 
-- **Keep lines of under 80 chars**
+- **Keep lines under 80 chars**
   + Try to keep **line length in code blocks to 80 characters or fewer**.
   + Otherwise, the text will overflow and look odd.
 - **Prefer example to exposition**
